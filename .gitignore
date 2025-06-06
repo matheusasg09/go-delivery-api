@@ -1,0 +1,19 @@
+# Executáveis
+/go-delivery-api
+*.exe
+*.out
+*.test
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Pastas e configs locais
+.idea/
+.vscode/
+.env
+
+# Cache do Go
+/vendor/
+/bin/
+/coverage/
